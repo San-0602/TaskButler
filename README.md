@@ -19,6 +19,7 @@ TaskButler is a Python-based command-line task manager with attitude. It doesn�
 
 📄 Auto-Summary generation in text file format for your records.
 
+
 💡 Tech Stack
 
 NLTK for tokenization & keyword detection
